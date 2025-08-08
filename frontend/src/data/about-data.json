@@ -1,0 +1,259 @@
+{
+    "heroSection": {
+        "title": "About JNV Sirohi Alumni Portal",
+        "subtitle": "Connecting Alumni, Building Networks, Creating Opportunities",
+        "description": "A dedicated platform for Jawahar Navodaya Vidyalaya, Sirohi alumni to reconnect, share achievements, and foster lifelong bonds with their alma mater.",
+        "stats": [
+            {
+                "label": "Active Alumni",
+                "value": "2000+",
+                "icon": "users"
+            },
+            {
+                "label": "Success Stories",
+                "value": "200+",
+                "icon": "trophy"
+            },
+            {
+                "label": "Events Hosted",
+                "value": "25+",
+                "icon": "calendar"
+            },
+            {
+                "label": "Years of Excellence",
+                "value": "35+",
+                "icon": "star"
+            }
+        ]
+    },
+    "aboutProject": {
+        "title": "About the Project",
+        "description": "The JNV Sirohi Alumni Portal is designed to bridge the gap between the school and its alumni community. It aims to create a vibrant ecosystem where former students can reconnect, share experiences, and contribute to the growth of current students.",
+        "features": [
+            {
+                "title": "Alumni Directory",
+                "description": "Find and connect with fellow JNV Sirohi alumni",
+                "icon": "users"
+            },
+            {
+                "title": "Interactive Dashboard",
+                "description": "Personalized dashboard with news, events, and networking opportunities",
+                "icon": "chart"
+            },
+            {
+                "title": "Real-time Communication",
+                "description": "Chat system and notifications to keep the community connected",
+                "icon": "message"
+            },
+            {
+                "title": "Career Opportunities",
+                "description": "Job postings and mentorship programs for career advancement",
+                "icon": "briefcase"
+            },
+            {
+                "title": "Success Stories",
+                "description": "Platform to share achievements and inspire fellow alumni",
+                "icon": "trophy"
+            }
+        ],
+        "technologies": [
+            {
+                "name": "React",
+                "description": "Modern frontend framework",
+                "color": "#61DAFB"
+            },
+            {
+                "name": "Node.js",
+                "description": "Backend runtime environment",
+                "color": "#339933"
+            },
+            {
+                "name": "MongoDB",
+                "description": "NoSQL database",
+                "color": "#47A248"
+            },
+            {
+                "name": "Socket.io",
+                "description": "Real-time communication",
+                "color": "#010101"
+            },
+            {
+                "name": "Tailwind CSS",
+                "description": "Utility-first CSS framework",
+                "color": "#06B6D4"
+            },
+            {
+                "name": "Framer Motion",
+                "description": "Animation library",
+                "color": "#FF0080"
+            }
+        ]
+    },
+    "aboutInstitution": {
+        "title": "Jawahar Navodaya Vidyalaya, Sirohi",
+        "fullName": "Jawahar Navodaya Vidyalaya, Sirohi, Rajasthan",
+        "description": "Jawahar Navodaya Vidyalaya, Sirohi is a co-educational residential school affiliated to CBSE, established in 1986 under the Navodaya Vidyalaya Samiti, Ministry of Education, Government of India. The school is dedicated to providing quality education to talented children predominantly from rural areas of Sirohi district.",
+        "history": "JNV Sirohi was established in 1986 as part of the nationwide Navodaya Vidyalaya initiative. The school has grown to become a center of academic excellence, nurturing students from diverse backgrounds and preparing them for leadership roles in society.",
+        "vision": "To nurture and empower rural talent through quality education, holistic development, and value-based learning.",
+        "mission": "To provide a supportive and inclusive environment that encourages academic excellence, leadership, and social responsibility among students.",
+        "values": [
+            {
+                "title": "Excellence",
+                "description": "Striving for the highest standards in academics and personal growth"
+            },
+            {
+                "title": "Integrity",
+                "description": "Upholding honesty and strong moral principles"
+            },
+            {
+                "title": "Respect",
+                "description": "Fostering mutual respect among students, staff, and the community"
+            },
+            {
+                "title": "Service",
+                "description": "Contributing positively to society and nation-building"
+            },
+            {
+                "title": "Inclusivity",
+                "description": "Embracing diversity and providing equal opportunities"
+            }
+        ],
+        "achievements": [
+            "Affiliated to CBSE (Affiliation No. 1740021)",
+            "Consistently high performance in CBSE Class X & XII board exams",
+            "State and national level achievements in sports, science, and cultural competitions",
+            "Well-equipped science, computer, and mathematics laboratories",
+            "Focus on holistic development including arts, sports, and leadership activities"
+        ]
+    },
+    "aboutDevelopers": {
+        "title": "Meet the Development Team",
+        "description": "This alumni portal is crafted with passion and dedication by a team of talented developers who believe in the power of technology to connect people and create meaningful experiences.",
+        "team": [
+            {
+                "name": "Bhupendra Chouhan",
+                "role": "Lead Developer",
+                "description": "Man behind the project, specializing in full-stack development, UI/UX design, and the creation of innovative web applications which we are using here.",
+                "expertise": [
+                    "React",
+                    "Node.js",
+                    "UI/UX Design",
+                    "Full-Stack Development",
+                    "AI/ML Integration"
+                ],
+                "avatar": "https://picsum.photos/id/236/200/300",
+                "social": {
+                    "github": "https://github.com/Bhupendraa307",
+                    "linkedin": "www.linkedin.com/in/bhupendraa307",
+                    "instagram": "https://www.instagram.com/bhupendraaa307?igsh=MXEzYjczdHE5NW5wZw==",
+                    "website": "https://github.com/Bhupendraa307"
+                },
+                "quote": "One man army behind this project."
+            },
+            {
+                "name": "Kuldeep Chouhan",
+                "role": "Full Stack Developer",
+                "description": "UI/UX design, database management, and API integration, ensuring the portal runs smoothly and efficiently.",
+                "expertise": [
+                    "Node.js",
+                    "Express",
+                    "MongoDB",
+                    "API Development",
+                    "Server Management"
+                ],
+                "avatar": "https://picsum.photos/id/238/200/300",
+                "social": {
+                    "github": "https://github.com/kuldeepchouhan1301",
+                    "linkedin": "https://github.com/kuldeepchouhan1301",
+                    "instagram": "https://github.com/kuldeepchouhan1301",
+                    "website": "https://github.com/kuldeepchouhan1301"
+                },
+                "quote": "Ensuring the portal runs smoothly and efficiently."
+            }
+        ],
+        "technologies": {
+            "frontend": [
+                "React",
+                "Tailwind CSS",
+                "Framer Motion",
+                "Heroicons"
+            ],
+            "backend": [
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Socket.io"
+            ],
+            "tools": [
+                "VS Code",
+                "Git",
+                "Postman"
+            ],
+            "deployment": [
+                "Vercel",
+                "MongoDB Atlas",
+                "Cloudinary"
+            ]
+        },
+        "developmentProcess": [
+            {
+                "phase": "Planning & Design",
+                "description": "Comprehensive requirement analysis and UI/UX design",
+                "duration": "2 weeks"
+            },
+            {
+                "phase": "Frontend Development",
+                "description": "Building responsive and interactive user interfaces",
+                "duration": "4 weeks"
+            },
+            {
+                "phase": "Backend Development",
+                "description": "Creating robust APIs and database architecture",
+                "duration": "3 weeks"
+            },
+            {
+                "phase": "Integration & Testing",
+                "description": "Connecting all components and thorough testing",
+                "duration": "2 weeks"
+            },
+            {
+                "phase": "Deployment & Launch",
+                "description": "Production deployment and launch preparations",
+                "duration": "1 week"
+            }
+        ]
+    },
+    "testimonials": [
+        {
+            "name": "Dr. S.K. Sharma",
+            "role": "Principal, JNV Sirohi",
+            "message": "The alumni portal has greatly enhanced our ability to stay connected with our former students and celebrate their achievements.",
+            "avatar": "https://picsum.photos/id/238/200/300"
+        },
+        {
+            "name": "Priya Singh",
+            "role": "Alumni Relations Officer",
+            "message": "This platform has made alumni engagement seamless and effective. We've seen a significant increase in alumni participation since its launch.",
+            "avatar": "https://picsum.photos/id/239/200/300"
+        },
+        {
+            "name": "Amit Joshi",
+            "role": "Alumni (Batch 2016)",
+            "message": "A wonderful initiative that keeps me connected with my alma mater and fellow alumni. The user experience is exceptional!",
+            "avatar": "https://picsum.photos/id/240/200/300"
+        }
+    ],
+    "contactInfo": {
+        "title": "Get in Touch",
+        "description": "Have questions about the portal or want to contribute? We'd love to hear from you!",
+        "email": "jnvsirohialumni@gmail.com",
+        "phone": "+91-2972-222049",
+        "address": "Jawahar Navodaya Vidyalaya, Kalandri, Sirohi, Rajasthan, India - 307001",
+        "socialMedia": {
+            "facebook": "https://facebook.com/jnvsirohi",
+            "twitter": "https://twitter.com/jnvsirohi",
+            "linkedin": "https://linkedin.com/school/jnvsirohi",
+            "instagram": "https://instagram.com/jnvsirohi"
+        }
+    }
+}
